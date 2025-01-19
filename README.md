@@ -26,3 +26,7 @@ This portfolio is for personal use and is shared publicly for potential employer
 
 ## 💬 Contact  
 Feel free to reach out to me via my portfolio or GitHub.  
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
